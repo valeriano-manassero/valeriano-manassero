@@ -6,11 +6,11 @@
 
 ## 🛰️ Tech
 <p align="left">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="python" width="100" height="100" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/go_gopher.svg" alt="golang" width="100" height="100" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-kubernetes.svg" alt="kubernetes" width="100" height="100" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/helm.svg" alt="helm" width="100" height="100" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/terraform.svg" alt="terraform" width="100" height="100" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="python" width="75" height="75" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/go_gopher.svg" alt="golang" width="75" height="75" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-kubernetes.svg" alt="kubernetes" width="75" height="75" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/helm.svg" alt="helm" width="75" height="75" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/terraform.svg" alt="terraform" width="75" height="75" />
 </p>
 
 ## 📌 Contacts
