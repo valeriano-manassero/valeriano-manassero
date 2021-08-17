@@ -7,6 +7,8 @@
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/go_gopher.svg" alt="golang" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-kubernetes.svg" alt="kubernetes" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/helm.svg" alt="helm" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/terraform.svg" alt="terraform" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/yaml.svg" alt="yaml" width="25" height="25" />
 </p>
 
 ## 📌 Contact
